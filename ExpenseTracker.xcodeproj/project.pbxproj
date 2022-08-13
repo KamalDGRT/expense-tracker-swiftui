@@ -11,6 +11,7 @@
 		D51E054D289A541500702AF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D51E054C289A541500702AF6 /* ContentView.swift */; };
 		D51E054F289A541700702AF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D51E054E289A541700702AF6 /* Assets.xcassets */; };
 		D51E0552289A541700702AF6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D51E0551289A541700702AF6 /* Preview Assets.xcassets */; };
+		D562E39F28A78EBE002B3A3C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D562E39E28A78EBE002B3A3C /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D51E054C289A541500702AF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D51E054E289A541700702AF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D51E0551289A541700702AF6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D562E39E28A78EBE002B3A3C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		D56C58AF289FE82F008C1FAA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +57,7 @@
 			children = (
 				D51E054A289A541500702AF6 /* ExpenseTrackerApp.swift */,
 				D51E054C289A541500702AF6 /* ContentView.swift */,
+				D562E39E28A78EBE002B3A3C /* Extensions.swift */,
 				D51E054E289A541700702AF6 /* Assets.xcassets */,
 				D51E0550289A541700702AF6 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D51E054D289A541500702AF6 /* ContentView.swift in Sources */,
+				D562E39F28A78EBE002B3A3C /* Extensions.swift in Sources */,
 				D51E054B289A541500702AF6 /* ExpenseTrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

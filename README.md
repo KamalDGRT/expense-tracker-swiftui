@@ -29,5 +29,15 @@ Pure coding stuff!
             <td> Basic Swift UI Setup </td>
             <td> 07<sup>th</sup> August 2022 </td>
         </tr>
+        <tr>
+            <td>2</td>
+            <td> Setting Up Color Assets </td>
+            <td> 13<sup>th</sup> August 2022 </td>
+        </tr>
+            <tr>
+            <td>3</td>
+            <td>Base Setup for Light and Dark Mode Preview </td>
+            <td> 13<sup>th</sup> August 2022 </td>
+        </tr>
     </tbody>
 </table>
