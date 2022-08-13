@@ -32,12 +32,22 @@ Pure coding stuff!
         <tr>
             <td>2</td>
             <td> Setting Up Color Assets </td>
-            <td> 13<sup>th</sup> August 2022 </td>
+            <td> 13<sup>th</sup> August 2022, 1:20PM </td>
         </tr>
-            <tr>
+        <tr>
             <td>3</td>
             <td>Base Setup for Light and Dark Mode Preview </td>
-            <td> 13<sup>th</sup> August 2022 </td>
+            <td> 13<sup>th</sup> August 2022, 1:39PM </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Setup a Model for Parsing Transaction Data </td>
+            <td> 13<sup>th</sup> August 2022, 2:00PM </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td> Add package dependency for the icons</td>
+            <td> 13<sup>th</sup> August 2022, 2:15PM </td>
         </tr>
     </tbody>
 </table>
