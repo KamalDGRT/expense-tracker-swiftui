@@ -16,6 +16,7 @@
 		D562E3A328A79562002B3A3C /* PreviewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D562E3A228A79562002B3A3C /* PreviewData.swift */; };
 		D562E3A528A79657002B3A3C /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D562E3A428A79657002B3A3C /* TransactionRow.swift */; };
 		D562E3A828A79B46002B3A3C /* SwiftUIFontIcon in Frameworks */ = {isa = PBXBuildFile; productRef = D562E3A728A79B46002B3A3C /* SwiftUIFontIcon */; };
+		D562E3AA28A79D25002B3A3C /* TransactionListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D562E3A928A79D25002B3A3C /* TransactionListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D562E3A028A793EE002B3A3C /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
 		D562E3A228A79562002B3A3C /* PreviewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewData.swift; sourceTree = "<group>"; };
 		D562E3A428A79657002B3A3C /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
+		D562E3A928A79D25002B3A3C /* TransactionListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionListViewModel.swift; sourceTree = "<group>"; };
 		D56C58AF289FE82F008C1FAA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,6 +68,7 @@
 				D51E054A289A541500702AF6 /* ExpenseTrackerApp.swift */,
 				D51E054C289A541500702AF6 /* ContentView.swift */,
 				D562E3A428A79657002B3A3C /* TransactionRow.swift */,
+				D562E3A928A79D25002B3A3C /* TransactionListViewModel.swift */,
 				D562E3A028A793EE002B3A3C /* TransactionModel.swift */,
 				D562E39E28A78EBE002B3A3C /* Extensions.swift */,
 				D51E054E289A541700702AF6 /* Assets.xcassets */,
@@ -164,6 +167,7 @@
 				D51E054D289A541500702AF6 /* ContentView.swift in Sources */,
 				D562E3A528A79657002B3A3C /* TransactionRow.swift in Sources */,
 				D562E39F28A78EBE002B3A3C /* Extensions.swift in Sources */,
+				D562E3AA28A79D25002B3A3C /* TransactionListViewModel.swift in Sources */,
 				D51E054B289A541500702AF6 /* ExpenseTrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
