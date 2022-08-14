@@ -49,5 +49,20 @@ Pure coding stuff!
             <td> Add package dependency for the icons</td>
             <td> 13<sup>th</sup> August 2022, 2:15PM </td>
         </tr>
+        <tr>
+            <td>6</td>
+            <td> Parse transactions through an URL</td>
+            <td> 13<sup>th</sup> August 2022, 7:13PM </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td> Setup a Swift UI to see recent transactions list</td>
+            <td> 13<sup>th</sup> August 2022, 7:30PM </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td> Create a struct to show relevant icons</td>
+            <td> 14<sup>th</sup> August 2022, 12:15PM </td>
+        </tr>
     </tbody>
 </table>
